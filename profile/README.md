@@ -5,6 +5,6 @@ Immunometabolism lab at Vanderbilt University Medical Center, Nashville, Tenness
 Anton Zhelonkin, MD (anton.zhelonkin@vumc.org)
 
 # Principal Investigator 
-Denis Mogilenko, PhD, Assitant Professor of Medicine (denis.mogilenko@vumc.org)
+Denis Mogilenko, PhD, Assistant Professor of Medicine (denis.mogilenko@vumc.org)
 
 
