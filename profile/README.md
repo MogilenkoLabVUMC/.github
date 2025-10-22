@@ -1,8 +1,8 @@
 # About Mogilenko Lab 
-Immunometabolism lab at Vanderbilt University Medical Center, Nashville, Tennessee, USA
+Immunometabolism group focused on the study of aging, autoimmunity and cancer; the group is now spread across anderbilt University Medical Center and University of Chicago
 
 # GitHub Maintainer 
-Anton Zhelonkin, MD (anton.zhelonkin@vumc.org)
+Anton Zhelonkin, MD (antonz@uchicago.edu)
 
 # Principal Investigator 
 Denis Mogilenko, PhD, Assistant Professor of Medicine (denis.mogilenko@vumc.org)
